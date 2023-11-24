@@ -1,0 +1,15 @@
+{
+  "rust-analyzer.linkedProjects": [
+    ".\\hello_world\\Cargo.toml",
+    ".\\primitives\\Cargo.toml",
+    ".\\custom_types\\Cargo.toml",
+    ".\\flow_control\\Cargo.toml",
+    ".\\functions\\Cargo.toml",
+    ".\\modules\\Cargo.toml",
+    ".\\crates\\Cargo.toml",
+    ".\\generics\\Cargo.toml",
+    ".\\scoping_rules\\Cargo.toml",
+    ".\\traits\\Cargo.toml",
+    ".\\macro_rules\\Cargo.toml"
+  ]
+}
