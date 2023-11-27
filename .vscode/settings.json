@@ -10,6 +10,7 @@
     ".\\generics\\Cargo.toml",
     ".\\scoping_rules\\Cargo.toml",
     ".\\traits\\Cargo.toml",
-    ".\\macro_rules\\Cargo.toml"
+    ".\\macro_rules\\Cargo.toml",
+    ".\\error_handling\\Cargo.toml"
   ]
 }
